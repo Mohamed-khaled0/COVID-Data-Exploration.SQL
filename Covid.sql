@@ -1,3 +1,7 @@
+/*
+Covid 19 Data Exploration 
+*/
+
 select *
 FROM dbo.covid
 order by  2,3
